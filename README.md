@@ -40,6 +40,7 @@ Elyana is automated and fully customized automod, action taken when automodding 
 Apps commands are the ones you get when you right-click on a user name in the server or on a message sent.
 - `flag`: Flagging a message is an open command for members, to flag a message that is considered bad or contains profanity/sexual/racist content.
 Flagging a message will send a log to the logs channel and auto react on the message, if it hits 5 reactions it will be automatically deleted.
+![](https://i.imgur.com/mdNx02Y.mp4)
 - `warn/mute/quarantine`: You can warn/quarantine/mute a member fast by right-clicking on a user name or avatar.
 
 ### To-do list:
